@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About
-My name is Kishan Savant. My background is in Mechanical Engineering but I have become more of a software developer now. I am interested in Robotics and Autonomous systems. My goto programming languages are C++ and Python. I recently completed a Self-Driving Car Nanodegree on Udacity but as I started to work on advance projects I felt that my C++ wasn't good so I enrolled into their C++ Nanodegree and am on verge of finishing it. I recently started contributing to Open Source and am working on trying to do some quality PRs. 
+My name is Kishan Savant. My background is in Mechanical Engineering but I have become more of a software developer now. I am interested in Robotics and Autonomous systems. My goto programming languages are C++ and Python. I recently completed a Self-Driving Car Nanodegree on Udacity but as I started to work on advanced projects I felt that my C++ wasn't good enough so I enrolled into their C++ Nanodegree and am on the verge of finishing it. I recently started contributing to Open Source and am working on trying to do some quality PRs. 
 
 <!--
 **NeoKish/NeoKish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
