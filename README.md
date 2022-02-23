@@ -8,10 +8,6 @@ My name is Kishan Savant. My background is in Mechanical Engineering but I have 
 
 ![traffic_simulation](https://user-images.githubusercontent.com/66986430/155372966-72734fae-5271-44d4-b8ca-9e92a406ce65.gif)
 
-### 2. Memory Management Chatbot
-
-![chatbot_demo](https://user-images.githubusercontent.com/66986430/155373290-8ca38b6d-a039-43e2-8914-0f4764d9c450.gif)
-
 <!--
 **NeoKish/NeoKish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
