@@ -5,12 +5,30 @@ My name is Kishan Savant. My background is in Mechanical Engineering but I have 
 
 ## Recent Projects
 
-<p align="center"><img src=modified_snake_game.gif ></p>
-
-<img src="concurrent_traffic_sim_gif.gif" width="500" height="250"  />  <img src="system_integration.gif" width="500" height = "250" style="float:right"/>
-
-<img src="highway_driving.gif" width="500" title = "Concurrent" />  <img src="advanced_lane_project_submission.gif" width="500" height = "250"  style="float:right"/>
-
+<!-- <h3 align = "center" > UdacityCPPCapstone- Snake Game </h3> -->
+<p align="center">
+  <a href="https://github.com/NeoKish/CppND-Capstone-Snake-Game" target="_blank">
+   <img src=modified_snake_game.gif >
+  </a>
+</p>
+<br/>
+<p>
+  <a href="https://github.com/NeoKish/CppND-Program-a-Concurrent-Traffic-Simulation" target="_blank"> 
+    <img src="concurrent_traffic_sim_gif.gif" width="450" height="250" /> 
+  </a> 
+   <a href="https://github.com/NeoKish/CarND-Capstone" target="_blank">
+    <img src="system_integration.gif" width="450" height = "250" /> 
+  </a>
+</p>  
+<br/>
+<p>
+  <a href="https://github.com/NeoKish/CarND-Path-Planning-Project" target="_blank"> 
+    <img src="highway_driving.gif" width="450" height="250" /> 
+  </a> 
+   <a href="https://github.com/NeoKish/UdacitySelfDrivingCarND_AdvancedLaneLines" target="_blank">
+    <img src="advanced_lane_project_submission.gif" width="450" height = "250" /> 
+  </a>
+</p>
 
 <!--
 **NeoKish/NeoKish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
