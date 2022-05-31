@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ## About
-My name is Kishan Savant. My background is in Mechanical Engineering but I have become more of a software developer now. I am interested in Robotics and Autonomous systems. My goto programming languages are C++ and Python. I have recently completed Nanodegree progams in C++ and Self-Driving Car from Udacity. I have three years of experience working in the US after my masters as a Lead Engineer at a startup tech incubator where I worked with early stage startups to build hardware and software prototypes.
+My name is [Kishan Savant](https://www.linkedin.com/in/kishan-savant/). Software engineer and an Open Source enthusiast with interest in Robotics and Machine Learning. I have recently completed Nanodegree progams in C++ and Self-Driving Car Engineer from [Udacity](https://www.udacity.com/) platform. I have three years of experience working in the US after my Masters Degree as a Lead Engineer at a startup tech incubator where I worked with early stage startups to build hardware and software prototypes.
+
+As an open source enthusiast, I try to contribute time and again to the open source projects of my interest.
 
 ## Recent Projects
 
