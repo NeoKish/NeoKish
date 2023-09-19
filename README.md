@@ -21,12 +21,6 @@ As an open source enthusiast, I try to contribute time and again to the open sou
 ## Recent Projects
 
 <!-- <h3 align = "center" > UdacityCPPCapstone- Snake Game </h3> -->
-<p align="center">
-  <a href="https://github.com/NeoKish/CppND-Capstone-Snake-Game" target="_blank">
-   <img src=modified_snake_game.gif >
-  </a>
-</p>
-<br/>
 <p>
   <a href="https://github.com/NeoKish/CppND-Program-a-Concurrent-Traffic-Simulation" target="_blank"> 
     <img src="concurrent_traffic_sim_gif.gif" width="400" height="220" /> 
