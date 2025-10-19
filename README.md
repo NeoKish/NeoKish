@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About
-My name is [Kishan Savant](https://www.linkedin.com/in/kishan-savant/). Software Engineer and Open-Source enthusiast with 6 years of overall experience in software development. 
+Software Engineer and Open-Source enthusiast with 6 years of overall experience in software development. 
 
 As an open source enthusiast, I try to contribute time and again to the open source projects of my interest.
 
